@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b70f6b493b0a6fe478525232a19610ed
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_Stone.hlsl
+  uploadId: 718343

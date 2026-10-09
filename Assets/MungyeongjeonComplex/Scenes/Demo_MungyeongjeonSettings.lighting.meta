@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a11896f47d4010a4485136242be1d1ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Scenes/Demo_MungyeongjeonSettings.lighting
+  uploadId: 718343

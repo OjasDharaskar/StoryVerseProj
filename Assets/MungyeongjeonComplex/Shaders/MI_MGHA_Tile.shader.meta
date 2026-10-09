@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000015115280463117126491
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_Tile.shader
+  uploadId: 718343

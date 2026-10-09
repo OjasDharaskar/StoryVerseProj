@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 734795830017fa2438d3c0995ee7fb50
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_Rafter02.hlsl
+  uploadId: 718343

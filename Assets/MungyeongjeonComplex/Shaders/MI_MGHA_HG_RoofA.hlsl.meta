@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eaf018807dc1b624c89740f92b991ef3
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_HG_RoofA.hlsl
+  uploadId: 718343

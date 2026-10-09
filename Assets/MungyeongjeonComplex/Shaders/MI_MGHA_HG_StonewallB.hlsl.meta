@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 385534bad616f5a458877212b776cbd7
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_HG_StonewallB.hlsl
+  uploadId: 718343

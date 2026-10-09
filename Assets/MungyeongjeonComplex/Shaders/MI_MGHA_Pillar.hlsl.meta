@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3d934deaab82664f9c22ab724ce5f59
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_Pillar.hlsl
+  uploadId: 718343

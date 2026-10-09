@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 489700918770f754f9c8b1bee7902de3
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_WoodA.hlsl
+  uploadId: 718343

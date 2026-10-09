@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4bac85f47c1a974b9f36ef6cfa353db
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/MI_MGHA_HG_WallA.hlsl
+  uploadId: 718343

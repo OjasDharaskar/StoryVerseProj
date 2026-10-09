@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38a4df89639993a449ce149eb70179af
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304551
+  packageName: KHS-Mungyeongjeon, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/MungyeongjeonComplex/Shaders/LWCOperations.hlsl
+  uploadId: 718343
